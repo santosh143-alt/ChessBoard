@@ -1,0 +1,19 @@
+table {
+  border: 10px black solid;
+  margin: auto;
+  margin-top: 40px;
+}
+
+td {
+  height: 50px;
+  width: 50px;
+}
+#black {
+  background: black;
+}
+#white {
+  background: white;
+}
+td:hover {
+  background: blue;
+}
